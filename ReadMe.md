@@ -13,3 +13,9 @@ Something important I would like to point out with this exercise is the use of j
 #### 1-1_w3resource_basic_5
 
 To execute this command, use docker run -i -t IMAGENAME.
+
+#### 1-1_w3resource_basic_15
+
+This is a really interesting one, first of all , how could you know the way to execute a bash command from java ? stack overflow is my passion. The next question is, how could you know which packect to import to use StringBuffer, the answer, just google it, the first link will show the package required in this case java.lang.StringBuffer.
+
+![Image](img/whatShouldIImport.png "cd command image")
