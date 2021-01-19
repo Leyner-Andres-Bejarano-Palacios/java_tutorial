@@ -24,3 +24,8 @@ This is a really interesting one, first of all , how could you know the way to e
 
 Solution to exercise number 78 in the website is wrong, adding my fix in the folder with the folder "exercises"
 
+
+#### 1-2_w3resource_basic_154
+
+Great reminder that a true can appear in many forms
+
