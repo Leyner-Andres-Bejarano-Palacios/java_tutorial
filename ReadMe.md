@@ -33,3 +33,8 @@ Great reminder that a boolean can appear in many forms, the result of function, 
 
 To resolve this problem you will need to a whiteboard explanation of the algorithm so you have a clear vision of what the code should so.
 
+
+
+#### 1-2_w3resource_basic_165
+
+Now I am wondering if only sorting the array wouldn't do the trick, like the code for the exercise 159.
