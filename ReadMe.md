@@ -27,5 +27,9 @@ Solution to exercise number 78 in the website is wrong, adding my fix in the fol
 
 #### 1-2_w3resource_basic_154
 
-Great reminder that a true can appear in many forms
+Great reminder that a boolean can appear in many forms, the result of function, the an expression evaluation or a position in an array or variable
+
+#### 1-2_w3resource_basic_155
+
+To resolve this problem you will need to a whiteboard explanation of the algorithm so you have a clear vision of what the code should so.
 
