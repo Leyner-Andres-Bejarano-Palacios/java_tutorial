@@ -41,4 +41,8 @@ Now I am wondering if only sorting the array wouldn't do the trick, like the cod
 
 #### 1-2_w3resource_basic_170
 
-This is a great example oof one of those moments where you shouls ask your interviewer if any of the number can appears several times in the sequence like iun this exersice
+This is a great example of one of those moments where you shouls ask your interviewer if any of the number can appears several times in the sequence like iun this exersice
+
+#### 1-2_w3resource_basic_171
+
+Another great opportunity where we should ask for clarification. should it be an exact match or should we do some preprocessing like lowercase both sentence and remove sequential whitespaces ??????
