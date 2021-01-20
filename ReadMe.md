@@ -38,3 +38,7 @@ To resolve this problem you will need to a whiteboard explanation of the algorit
 #### 1-2_w3resource_basic_165
 
 Now I am wondering if only sorting the array wouldn't do the trick, like the code for the exercise 159.
+
+#### 1-2_w3resource_basic_170
+
+This is a great example oof one of those moments where you shouls ask your interviewer if any of the number can appears several times in the sequence like iun this exersice
