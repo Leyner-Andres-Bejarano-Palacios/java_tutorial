@@ -73,3 +73,7 @@ Something passing throug my head right now, if this is recursive and one of the 
 #### 1-2_w3resource_basic_184
 
 Another great opportunity for desamboguity, when you ask you me for the longest sequence, you refering to sequencials values, or longuest similar direcctions , for example the moment in the tree when there are more secuencials right nodes ???????
+
+#### 1-2_w3resource_basic_195
+
+I had the idea that I needed yo draw it but seeng the answer definitily helped me and its like that developer that pass the google interview but I dont remember his name right now said, dont stuck in a single problem, just see the the answer and continue.
