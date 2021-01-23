@@ -66,3 +66,7 @@ This one and the exercise number 179 would be nice to analize the most optimal s
 #### 1-2_w3resource_basic_178
 
 Really thought the solution would be recursive, but it wasn't, always start with a brute force implementation.
+
+#### 1-2_w3resource_basic_182
+
+Something passing throug my head right now, if this is recursive and one of the branches it took are not identical the other continue executing ????.
