@@ -70,3 +70,6 @@ Really thought the solution would be recursive, but it wasn't, always start with
 #### 1-2_w3resource_basic_182
 
 Something passing throug my head right now, if this is recursive and one of the branches it took are not identical the other continue executing ????.
+#### 1-2_w3resource_basic_184
+
+Another great opportunity for desamboguity, when you ask you me for the longest sequence, you refering to sequencials values, or longuest similar direcctions , for example the moment in the tree when there are more secuencials right nodes ???????
