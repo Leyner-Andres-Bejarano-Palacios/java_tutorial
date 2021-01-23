@@ -1,5 +1,5 @@
-import pack.ListNode;
 import java.util.*;
+import pack.ListNode;
 import java.util.Arrays;
 import java.util.LinkedList;
 
