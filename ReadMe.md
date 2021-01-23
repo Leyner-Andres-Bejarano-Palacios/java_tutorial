@@ -62,3 +62,7 @@ This would be one type of multi class exercise where both classes are in the sam
 #### 1-2_w3resource_basic_178
 
 This one and the exercise number 179 would be nice to analize the most optimal solution the brute force implementation is not so cool.
+
+#### 1-2_w3resource_basic_178
+
+Really thought the solution would be recursive, but it wasn't, always start with a brute force implementation.
