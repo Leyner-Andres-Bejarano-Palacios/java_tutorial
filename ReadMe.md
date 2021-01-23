@@ -54,3 +54,11 @@ Interesting problem but the current version (the one in thw website) have some b
 #### 1-2_w3resource_basic_175
 
 Dear diary, today I learned how to solve multi files exercises https://www.studytonight.com/java/package-in-java.php
+
+#### 1-2_w3resource_basic_178
+
+This would be one type of multi class exercise where both classes are in the same file.
+
+#### 1-2_w3resource_basic_178
+
+This one and the exercise number 179 would be nice to analize the most optimal solution the brute force implementation is not so cool.
