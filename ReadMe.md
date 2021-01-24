@@ -82,3 +82,6 @@ I had the idea that I needed yo draw it but seeng the answer definitily helped m
 
 Why are they doing all that over enginering to find that ? I see it simple but the amount of work that they are putting in this task make wonder if maybe there is something in the exercise that I am not watching. My solution would be just to find the quadratic root, if the numer is an integer then it is a perfect square. But I will ask my cousin siete to just to double check my answer (also will look for other solutions to the same exercise).
 
+#### 1-2_w3resource_basic_200
+
+what an interesting piece of code, really interested to seed what is inside  when I print iteration by iteration 
