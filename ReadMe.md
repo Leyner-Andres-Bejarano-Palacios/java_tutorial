@@ -77,3 +77,8 @@ Another great opportunity for desamboguity, when you ask you me for the longest 
 #### 1-2_w3resource_basic_195
 
 I had the idea that I needed yo draw it but seeng the answer definitily helped me and its like that developer that pass the google interview but I dont remember his name right now said, dont stuck in a single problem, just see the the answer and continue.
+
+#### 1-2_w3resource_basic_197
+
+Why are they doing all that over enginering to find that ? I see it simple but the amount of work that they are putting in this task make wonder if maybe there is something in the exercise that I am not watching. My solution would be just to find the quadratic root, if the numer is an integer then it is a perfect square. But I will ask my cousin siete to just to double check my answer (also will look for other solutions to the same exercise).
+
