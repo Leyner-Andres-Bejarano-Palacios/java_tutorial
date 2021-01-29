@@ -89,3 +89,7 @@ what an interesting piece of code, really interested to seed what is inside  whe
 #### 1-2_w3resource_basic_201
 
 I really really reaaaaaaaaallyyyyyyyyyyyyyyyyyyy want to do this one.
+
+#### 1-2_w3resource_basic_207
+
+Definitly can do something better, stating but the fact that when you are going to use a linked list you should define you class to do the things you need it to do
