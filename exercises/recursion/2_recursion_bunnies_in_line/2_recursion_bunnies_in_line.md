@@ -6,12 +6,8 @@ Given a non-negative int n, return the count of the occurrences of 7 as a digit,
 
 # the solution
 
-public int count7(int n) {
-  int counter = 0;
-
-  if( n % 10 == 7) counter++;
-
-  if( n / 10  == 0)  return counter;
-
-  return counter + count7(n/10); 
+public int countX(String str) {
+  if (str.equals("")) return 0;
+  if (str.charAt(0) == 'x') return 1 + countX(str.substring(1));
+  else return countX(str.substring(1));
 }
