@@ -1,19 +1,16 @@
 # the problem 
 
 
-Count recursively the total number of "abc" and "aba" substrings that appear in the given string.
+We have triangle made of blocks. The topmost row has 1 block, the next row down has 2 blocks, the next row has 3 blocks, and so on. 
 
-countAbc("abc") → 1
-countAbc("abcxxabc") → 2
-countAbc("abaxxaba") → 2
+triangle(0) → 0
+triangle(1) → 1
+triangle(2) → 3
 
 
 # the solution
 
-public int countAbc(String str) {
-  if (str.length() < 3) return 0;
-  if (str.substring(0,3).equals("abc") || str.substring(0,3).equals("aba"))
-    return 1 + countAbc(str.substring(1));
-  else
-    return countAbc(str.substring(1));
+public int triangle(int rows) {
+  if (rows == 0) return 0;
+  return rows + triangle(rows-1);
 }
