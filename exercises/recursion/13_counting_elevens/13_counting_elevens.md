@@ -1,15 +1,18 @@
-Given a string, compute recursively (no loops) the number of "11" substrings in the string. The "11" substrings should not overlap.
+Given a string that contains a single pair of parenthesis, compute recursively a new string made of only of the parenthesis and their contents, so "xyz(abc)123" yields "(abc)".
 
-count11("11abc11") → 2
-count11("abc11x11x11") → 3
-count11("111") → 1
+parenBit("xyz(abc)123") → "(abc)"
+parenBit("x(hello)") → "(hello)"
+parenBit("(xy)1") → "(xy)"
 
 # solution
 
-public int count11(String str) {
-  if (str.length() < 2) return 0;
-  if (str.substring(0,2).equals("11"))
-    return 1 + count11(str.substring(2));
-  else
-    return count11(str.substring(1));
+public String parenBit(String str) {
+  if (str.equals("")) return str;
+  if (str.charAt(0) == '(') {
+    if (str.charAt(str.length()-1) == ')')
+      return str;
+    else 
+      return parenBit(str.substring(0, str.length()-1));
+  } else
+    return parenBit(str.substring(1));
 }
