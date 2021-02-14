@@ -87,7 +87,15 @@ Solution: It does not allocate memory for a[] with new . This code results in a
 variable a might not have been initialized compile-time error.
 
 
+#### exercise 1.1.13
 
+Write a static method lg() that takes an int value N as argument and returns
+the largest int not larger than the base-2 logarithm of N . Do not use Math .
+
+#### solution 1.1.13
+
+
+so
 
 
 
