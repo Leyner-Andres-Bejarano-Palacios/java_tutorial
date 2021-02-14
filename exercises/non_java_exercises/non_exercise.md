@@ -65,9 +65,16 @@ boolean, true
 ### exercise 1.1.2 d
 
 1 + 2 + "3"
+
 ### solution 1.1.2 d
 
 "33"
+
+### exercise 1.1.4
+
+in java there are no special keyword then
+
+
 
 
 
