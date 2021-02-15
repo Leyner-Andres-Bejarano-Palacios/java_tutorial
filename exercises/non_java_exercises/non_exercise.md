@@ -94,9 +94,77 @@ the largest int not larger than the base-2 logarithm of N . Do not use Math .
 
 #### solution 1.1.13
 
+so,first,how do we do logarithm without the math class
 
-so
+double ln(double x)
+{
+    double old_sum = 0.0;
+    double xmlxpl = (x - 1) / (x + 1);
+    double xmlxpl_2 = xmlxpl * xmlxpl;
+    double denom = 1.0;
+    double frac = xmlxpl;
+    double term = frac;                 // denom start from 1.0
+    double sum = term;
 
+    while ( sum != old_sum )
+    {
+        old_sum = sum;
+        denom += 2.0;
+        frac *= xmlxpl_2;
+        sum += frac / denom;
+    }
+    return 2.0 * sum;
+}
+
+
+
+lo que sigue es usando la identidad, sacamos la del 2
+
+double log2( double x ) {
+    return ln(x) / ln(2);    
+}
+
+#### 1.1.19
+
+Es linear asi que planteando que una ejecucion con N valiendo 1 tomaria que N sea igual a 60 para que esto alcanze una hora de duracion
+
+#### 1.1.20
+
+the problem is a base fibonacci, that was first, space optimized
+
+https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+
+
+### 1.1.22 Write a version of BinarySearch that uses the recursive rank() given on page
+25 and traces the method calls. Each time the recursive method is called, print the argu-
+ment values lo and hi , indented by the depth of the recursion. Hint: Add an argument
+to the recursive method that keeps track of the depth.
+
+### R/ yo lo haria con static variables
+
+
+### 1.1.29 Equal keys. Add to BinarySearch a static method rank() that takes a key and
+a sorted array of int values (some of which may be equal) as arguments and returns the
+number of elements that are smaller than the key and a similar method count() that
+returns the number of elements equal to the key. Note : If i and j are the values returned
+by rank(key, a) and count(key, a) respectively, then a[i..i+j-1 ] are the values in
+the array that are equal to key .
+
+
+### 1.1.34 Filtering. Which of the following require saving all the values from standard
+input (in an array, say), and which could be implemented as a filter using only a fixed
+number of variables and arrays of fixed size (not dependent on N)? For each, the input
+comes from standard input and consists of N real numbers between 0 and 1.
+
+
+Print the maximum and minimum numbers.
+Print the median of the numbers.
+Print the k th smallest value, for k less than 100.
+Print the sum of the squares of the numbers.
+Print the average of the N numbers.
+Print the percentage of numbers greater than the average.
+Print the N numbers in increasing order.
+Print the N numbers in random order.
 
 
 # source
