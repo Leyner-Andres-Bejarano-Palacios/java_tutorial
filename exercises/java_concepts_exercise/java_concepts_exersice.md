@@ -44,3 +44,20 @@ sequences. Write a program that checks whether two given strings s and t are cir
 
 StringRotation.java
 
+### 1.2.7 What does the following recursive function return?
+
+public static String mystery(String s)
+{
+    int N = s.length();
+    if (N <= 1) return s;
+    String a = s.substring(0, N/2);
+    String b = s.substring(N/2, N);
+    return mystery(b) + mystery(a);
+}
+
+### solution
+
+The same string that was pass as an argument
+
+
+
