@@ -83,3 +83,9 @@ this will be cool to do with my brother
 
 It'll be a greeeatttt exercise to do this with constant complexity
 
+### 1.2.19
+
+so, I need to pass the char to ascii code, interesting.....https://stackoverflow.com/questions/19610505/how-can-i-implement-my-parseintstring-str-method
+
+
+
