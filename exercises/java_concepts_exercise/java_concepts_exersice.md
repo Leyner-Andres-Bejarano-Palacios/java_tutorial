@@ -70,4 +70,10 @@ int[] t = a; a = b; b = t;
 Answer. It swaps them. It could hardly be more efficient because it does so by copying
 references, so that it is not necessary to copy millions of elements.
 
+### 1.2.11  Develop an implementation SmartDate of our Date API that raises an exception if the date is not legal.
+
+### solution
+
+this will be cool to do with my brother
+
 
