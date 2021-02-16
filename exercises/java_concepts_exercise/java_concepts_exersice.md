@@ -32,3 +32,15 @@ of the object that was used to invoke them). This code ignores the objects retur
 and just prints the original string. To print "WORLD" , use s = s.toUpperCase() and
 s = s.substring(6, 11) .
 
+
+### 1.2.6  indexOf
+
+A string s is a circular rotation of a string t if it matches when the characters
+are circularly shifted by any number of positions; e.g., ACTGACG is a circular shift of
+TGACGAC , and vice versa. Detecting this condition is important in the study of genomic
+sequences. Write a program that checks whether two given strings s and t are circular
+
+### solution
+
+StringRotation.java
+
