@@ -22,6 +22,8 @@ Note that the fail-fast behavior of an iterator cannot be guaranteed as it is, g
 
 https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
 
+head first java pag 131
+
 
 
 
