@@ -76,4 +76,10 @@ references, so that it is not necessary to copy millions of elements.
 
 this will be cool to do with my brother
 
+### 1.2.12 
+
+
+### solution
+
+It'll be a greeeatttt exercise to do this with constant complexity
 
