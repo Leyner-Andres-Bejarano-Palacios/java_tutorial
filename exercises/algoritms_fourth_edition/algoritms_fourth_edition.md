@@ -16,3 +16,9 @@ the stack (without popping it).
 ## 1.3.9
 
 https://github.com/devzer01/algorithms/blob/master/Algorithms/src/com/gems/algorithms/FixParen.java
+
+## 1.3.10
+
+Infix to posfix
+
+https://leetcode.com/problems/basic-calculator/discuss/250315/infix-to-postfix-java-easy-solution-with-explanation
