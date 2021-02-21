@@ -31,3 +31,7 @@ The real question here is how long will it take to find the last element, so if 
 
 page 178
 
+## 1.4.6 
+
+Great order of grow analisys
+
