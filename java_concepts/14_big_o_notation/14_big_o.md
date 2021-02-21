@@ -23,8 +23,22 @@ O(log N) is the logaritmic time complexity,it is a pretty rare one, one of the f
 
 ![Image](img/caveatsBigONotations_part2.png "caveats Big O Notations part2 image")
 
+## amortized analisys
+
+The logic here is that we have a lot (likely millions) that are kept with a low complexity time by executing a few times expensive operations. The importan part is the overall time that the algoritm take.
+
+![Image](img/amortizedGraph.png "amortized Graph image")
+
 
 ### Source
 
 https://www.youtube.com/watch?v=Qn16oJ49AtM
+
+### source amortized analysis
+
+https://www.geeksforgeeks.org/analysis-algorithm-set-5-amortized-analysis-introduction/
+
+algorithms fourth edition kevin wayne page 212
+
+
 
