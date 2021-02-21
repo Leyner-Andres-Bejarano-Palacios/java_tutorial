@@ -30,6 +30,9 @@ The logic here is that we have a lot (likely millions) that are kept with a low 
 ![Image](img/amortizedGraph.png "amortized Graph image")
 
 
+![Image](img/excampleAmortizedGraph.png "amortized Graph image")
+
+
 ### Source
 
 https://www.youtube.com/watch?v=Qn16oJ49AtM
