@@ -17,6 +17,11 @@ O(log N) is the logaritmic time complexity,it is a pretty rare one, one of the f
 
 
 
+## caveats big o Notation
+
+![Image](img/caveatsBigONotations_part1.png "caveats Big O Notations part1 image")
+
+![Image](img/caveatsBigONotations_part2.png "caveats Big O Notations part2 image")
 
 
 ### Source
