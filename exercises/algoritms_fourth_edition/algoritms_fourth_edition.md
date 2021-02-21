@@ -42,5 +42,5 @@ Great order of grow analisys
 
 ## 1.4.9
 
-I want to see this one
+I want to see this one.....and the rest of the questions in this section that I dont want time right now to do them all
 
