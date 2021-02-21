@@ -32,6 +32,9 @@ The logic here is that we have a lot (likely millions) that are kept with a low 
 
 ![Image](img/excampleAmortizedGraph.png "amortized Graph image")
 
+## space analisys
+
+This is easier, just count objects (and primitives), page 213 (algoritms fourth edition page 123)
 
 ### Source
 
