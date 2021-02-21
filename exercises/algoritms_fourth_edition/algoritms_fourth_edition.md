@@ -23,7 +23,7 @@ Infix to posfix
 
 https://leetcode.com/problems/basic-calculator/discuss/250315/infix-to-postfix-java-easy-solution-with-explanation
 
-## 1.3.14
+## 1.3.19
 
 The real question here is how long will it take to find the last element, so if I have been inserting the elements and I had a last element instance variable it will be a constant time complexity operation, otherwise, it willbe a linear operation. This is a good oportunity to do a recusrsive function
 
