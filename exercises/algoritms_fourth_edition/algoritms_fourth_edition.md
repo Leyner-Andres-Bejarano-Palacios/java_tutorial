@@ -44,3 +44,7 @@ Great order of grow analisys
 
 I want to see this one.....and the rest of the questions in this section that I dont want time right now to do them all
 
+### 2.1.1 and the rest on that section needed to advance quickly
+
+
+
