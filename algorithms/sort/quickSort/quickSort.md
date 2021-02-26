@@ -42,7 +42,10 @@ recursive calls before working on the whole array; in the second instance, we do
 recursive calls after working on the whole array. For mergesort, the array is divided in
 half; for quicksort, the position of the partition depends on the contents of the array.
 
+it is not stable
 
 ### source
 
-algoritms fourth edition 273, continue reading this section for the time complexity and some considerations like the h value to use
+-- algoritms fourth edition 273, continue reading this section for the time complexity and some considerations like the h value to use
+
+-- algoritms fourth edition 354

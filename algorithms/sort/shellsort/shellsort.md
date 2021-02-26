@@ -51,7 +51,10 @@ N pow 2. worst case (randon array)
 
 linear when we have a sorted array and we want to add a new entry
 
+it is not stable
 
 ### source
 
-algoritms fourth edition 273, continue reading this section for the time complexity and some considerations like the h value to use
+-- algoritms fourth edition 273, continue reading this section for the time complexity and some considerations like the h value to use
+
+-- algoritms fourth edition 354

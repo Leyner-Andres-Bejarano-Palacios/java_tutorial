@@ -69,7 +69,10 @@ N pow 2. worst case (randon array)
 
 linear when we have a sorted array and we want to add a new entry
 
+it is stable
 
 ### source
 
-algoritms fourth edition 261
+-- algoritms fourth edition 261
+
+-- algoritms fourth edition 354

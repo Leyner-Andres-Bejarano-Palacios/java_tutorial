@@ -26,7 +26,9 @@ of compares.
 
 N pow 2.
 
+it is not stable
 
 ### source
 
-algoritms fourth edition 261
+-- algoritms fourth edition 261
+-- algoritms fourth edition 354

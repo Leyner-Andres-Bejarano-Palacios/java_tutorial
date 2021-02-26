@@ -114,7 +114,10 @@ ond subarray may be smaller than the first in the 8 last merge on each pass (whi
 merge() ), but otherwise all merges involve subarrays of equal size, doubling the sorted subarray size
 for the next pass.
 
+it is stable
 
 ### source
 
-algoritms fourth edition 283
+-- algoritms fourth edition 283
+
+-- algoritms fourth edition 354
