@@ -1,8 +1,8 @@
 # sequentialSearch
 
-### the algorithm mergesort
+### the algorithm sequentialSearch
 
-![Image](img/mergesort.png "mergesort image")
+![Image](img/sequentialSearch.png "sequentialSearch image")
 
 
 
