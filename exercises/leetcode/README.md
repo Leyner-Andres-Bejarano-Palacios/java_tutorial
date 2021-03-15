@@ -18,3 +18,7 @@ Q" : Should I use the len(N) or put that in an array ?
 ### 1108. Defanging an IP Address
 
 Pretty much the same, a for look would get this done, now, would a replace code change this ?? now thats an interesting one, another thing to have in mind is that due to the fact we will need a for loop there will be an internal loop, and in order to avoid a string creation in every iteration we will need a stringbuilder
+
+### 1672. Richest Customer Wealth
+
+This also need linear time complexity, I have to iterate though every element in the array, the space complexity can be constant because the variable where I keep the biggest wealth can vary if a bigger wealth appear. Something interesting to analize would be a faster way to iterate like a map. Asking if we will work on an external input or an instance variable so we can determine if we need a static method. Also, in the python section use every PEP like the fist line coding, the shebang ....etc
