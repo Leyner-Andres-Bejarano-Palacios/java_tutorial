@@ -22,3 +22,7 @@ Pretty much the same, a for look would get this done, now, would a replace code 
 ### 1672. Richest Customer Wealth
 
 This also need linear time complexity, I have to iterate though every element in the array, the space complexity can be constant because the variable where I keep the biggest wealth can vary if a bigger wealth appear. Something interesting to analize would be a faster way to iterate like a map. Asking if we will work on an external input or an instance variable so we can determine if we need a static method. Also, in the python section use every PEP like the fist line coding, the shebang ....etc
+
+### 1431  Kids With the Greatest Number of Candies
+
+no so interesting, linear time complexity because I need to access every element, constant space complexity....cant think of something like avoid the heap bad memory use or something like that
