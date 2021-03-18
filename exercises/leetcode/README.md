@@ -41,3 +41,11 @@ of course the easiest way would be a nested for loop, but that would be quadrati
 #### 771. Jewels and Stones
 
 Another hidden trap, here we need to avoid  the quadratic time complexity, so the first thing we need to do is create a hasmap (that would be linear M ??????), and after that we can get linear time complexity and constant get operations
+
+### 1603. Design Parking System ********************
+
+Estos sopla monda no dejan concentrarme pa poder responder esto mano
+
+### 1365. How Many Numbers Are Smaller Than the Current Number
+
+I would have to sort this, so at least this would be linearitmic, after that I would only need to know the position where the next number is smaller than the current number....... the next question would be what is the most optimoar sorting mechanism to use in this situation
