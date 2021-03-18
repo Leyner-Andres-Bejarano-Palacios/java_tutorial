@@ -25,4 +25,19 @@ This also need linear time complexity, I have to iterate though every element in
 
 ### 1431  Kids With the Greatest Number of Candies
 
-no so interesting, linear time complexity because I need to access every element, constant space complexity....cant think of something like avoid the heap bad memory use or something like that
+no so interesting, linear time complexity because I need to access every element, constant space complexity....cant think of something like avoid the heap bad memory use or something like that.... the assert execution, the TDD also important to give a great impressions
+
+
+#### 1470. Shuffle the Array
+
+could easely do it with linear time complexity, when it comes to space complexity I think is linear, but I'm doubt
+
+
+#### 1512. Number of Good Pairs
+
+of course the easiest way would be a nested for loop, but that would be quadratic, I will need to find the solution on the internet, daaaannnnmmmmmmmmm
+
+
+#### 771. Jewels and Stones
+
+Another hidden trap, here we need to avoid  the quadratic time complexity, so the first thing we need to do is create a hasmap (that would be linear M ??????), and after that we can get linear time complexity and constant get operations
