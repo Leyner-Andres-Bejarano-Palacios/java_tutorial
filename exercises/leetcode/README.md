@@ -49,3 +49,9 @@ Estos sopla monda no dejan concentrarme pa poder responder esto mano
 ### 1365. How Many Numbers Are Smaller Than the Current Number
 
 I would have to sort this, so at least this would be linearitmic, after that I would only need to know the position where the next number is smaller than the current number....... the next question would be what is the most optimoar sorting mechanism to use in this situation
+
+
+### 1773. Count Items Matching a Rule
+
+The first that come to my minds is the sequentials search, but can I use the binary search with strings ?? and before of that can I do a sorting long n ?????
+
