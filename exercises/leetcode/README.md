@@ -62,3 +62,7 @@ completily loss
 ### 1528. Shuffle String
 
 easy, but the problem is that right now I dont remember what is the best sorting algorithm for not reference objects items
+
+### 1281 Subtract the Product and Sum of Digits of an Integer
+
+This is a nice exercise, do no harm and some good, it has to be lineaar  because  I need to sum all the digits in the number, now cast to string would be too heavy, so the most optimal would be to do it modding the number until we cant do it no more.
