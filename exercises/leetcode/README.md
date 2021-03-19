@@ -66,3 +66,21 @@ easy, but the problem is that right now I dont remember what is the best sorting
 ### 1281 Subtract the Product and Sum of Digits of an Integer
 
 This is a nice exercise, do no harm and some good, it has to be lineaar  because  I need to sum all the digits in the number, now cast to string would be too heavy, so the most optimal would be to do it modding the number until we cant do it no more.
+
+### 1313. Decompress Run-Length Encoded List
+
+Has to be linear, really would like to see how the other did this one, after I did it, I would sugest a lazy implementation
+
+
+### 1678. Goal Parser Interpretation
+
+Not that insteresting, hast to be linear
+
+### 1720. Decode XORed Array
+
+Another not so interesting ------------------------------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> PRETTY IMPORTANT TO IMPLEMENT BEST PRACTICES
+
+
+### 1389. Create Target Array in the Given Order
+
+has to be linear.... not that insteresting
