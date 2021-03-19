@@ -55,3 +55,10 @@ I would have to sort this, so at least this would be linearitmic, after that I w
 
 The first that come to my minds is the sequentials search, but can I use the binary search with strings ?? and before of that can I do a sorting long n ?????
 
+### 1342. Number of Steps to Reduce a Number to Zero ????????????????????
+
+completily loss
+
+### 1528. Shuffle String
+
+easy, but the problem is that right now I dont remember what is the best sorting algorithm for not reference objects items
