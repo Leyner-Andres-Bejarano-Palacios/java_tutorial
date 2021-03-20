@@ -125,3 +125,15 @@ There is something interesting about this problem, sure this needs to be linear 
 
 In the way I see it I need the factorial, the combinational method, the difference with the last one  I did it was to change the 2 by the 1, 3 and so on depending on the array lenght
 
+### 1688. Count of Matches in Tournament ?????????? the sequential way its pretty obvious but I wonder if is there something more optimal
+
+
+### 1732. Find the Highest Altitude
+
+Find the highest value problem, first we sort (I think there is a log n way of doing that) and binary search
+
+### 1534. Count Good Triplets
+
+My brute force implementation would be to find every possible triplets and have a method that tell me which one are compliance with the requirements
+
+
