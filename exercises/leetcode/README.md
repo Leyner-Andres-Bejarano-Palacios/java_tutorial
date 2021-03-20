@@ -116,7 +116,12 @@ there are two ways with this,
 
 ### 1179. Reformat Department Table ????????????????????????????????????????????????? how to do it, I can think of a good solution, so lets write it down and look how good sql look like
 
+### 1290. Convert Binary Number in a Linked List to Integer 
+
+There is something interesting about this problem, sure this needs to be linear because I need to go though every node but when it generate the representation of all the binary numbers, is it a constant time complexity operation ??????
 
 
+### 1588. Sum of All Odd Length Subarrays ??????????? damn, wonder how did they did it optimally ??????????
 
+In the way I see it I need the factorial, the combinational method, the difference with the last one  I did it was to change the 2 by the 1, 3 and so on depending on the array lenght
 
