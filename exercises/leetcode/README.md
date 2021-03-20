@@ -102,3 +102,9 @@ Linear, has to pass through every node using recursive method, the doudt I have 
 
 Pretty simple, just need to see where it open and where it close, has to be linear, could be a N/2 that is the same as N with constant space complexity
 
+### 1662. Check If Two String Arrays are Equivalent
+
+there are two ways with this, 
+    -- if I can sort this, I thing it would be log n,,,,,also need to be swapting
+    -- if I cant, I would organize this remembering the initial position, at the end if has to be the same string and same positions
+
