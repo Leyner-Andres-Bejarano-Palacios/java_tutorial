@@ -94,3 +94,11 @@ has to be linear
 
 honestly, I dont know anything about "compuestas de verdad" 
 
+### 938. Range Sum of BST
+
+Linear, has to pass through every node using recursive method, the doudt I have is what would be the space complexity
+
+## 1614. Maximum Nesting Depth of the Parentheses
+
+Pretty simple, just need to see where it open and where it close, has to be linear, could be a N/2 that is the same as N with constant space complexity
+
