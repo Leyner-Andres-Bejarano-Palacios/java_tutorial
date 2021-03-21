@@ -136,4 +136,11 @@ Find the highest value problem, first we sort (I think there is a log n way of d
 
 My brute force implementation would be to find every possible triplets and have a method that tell me which one are compliance with the requirements
 
+### 709. To Lower Case
 
+The brute force implementation would be using the lower() in a string, the interesting question would be to know the time and space complexity, my guess, linear time complexity and constant complexity
+
+
+### 1266. Minimum Time Visiting All Points
+
+Daaaaaaannnnmmmmm one of these questions about find the shortest path,,,,,,,, great oportunity to apply those concepts
