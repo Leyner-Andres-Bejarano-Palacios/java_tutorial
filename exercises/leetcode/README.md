@@ -144,3 +144,5 @@ The brute force implementation would be using the lower() in a string, the inter
 ### 1266. Minimum Time Visiting All Points
 
 Daaaaaaannnnmmmmm one of these questions about find the shortest path,,,,,,,, great oportunity to apply those concepts
+
+
