@@ -170,4 +170,14 @@ Is There some optimization (or in term of redabiliyt ot bst pratice) that I shou
 
 I has to be honest with myself, I'm just reading these questions without even stop to think how should I do it.
 
-### 
+### 1323. Maximum 69 Number
+
+this is pretty interesting one, the brute force implementation would be a linear solution, the better want would be a binary search like implementation where I take the avrage  of every half until I find the first half where the six appear
+
+### 1725. Number Of Rectangles That Can Form The Largest Square
+
+I have way to many things to do men, if I stop to think about this with all the things I have still waiting i my to do list I will suffer a stroke
+
+### 627. Swap Salary
+
+This look suspiciosly easy, so I need to optimeze (starting by understating what optimize mean when talking about sql), and look other people solution in caase that there is something that I am not understanding
