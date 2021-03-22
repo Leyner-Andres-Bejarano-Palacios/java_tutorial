@@ -181,3 +181,8 @@ I have way to many things to do men, if I stop to think about this with all the 
 ### 627. Swap Salary
 
 This look suspiciosly easy, so I need to optimeze (starting by understating what optimize mean when talking about sql), and look other people solution in caase that there is something that I am not understanding
+
+### 1572. Matrix Diagonal Sum
+
+Overviwing this, I can think of optimization over the subprocess, for example, every time I add something to the sum I must also insert in a ordered array, that will make it easier to determine if an element is in the array with a binary search
+
