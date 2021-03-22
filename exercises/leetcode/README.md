@@ -203,3 +203,11 @@ O(log-n) so the final solution would be O(nlog-n)
 ### 1464. Maximum Product of Two Elements in an Array
 
 find the greatest and the second greatest
+
+### 1450. Number of Students Doing Homework at a Given Time
+
+another stroke
+
+### 1704. Determine if String Halves Are Alike
+
+dannnnmmmmmmmm,  linear is the best one I can think of, ,,,,,, I'll see the other homies solutions
