@@ -146,3 +146,28 @@ The brute force implementation would be using the lower() in a string, the inter
 Daaaaaaannnnmmmmm one of these questions about find the shortest path,,,,,,,, great oportunity to apply those concepts
 
 
+### 1021. Remove Outermost Parentheses
+
+The way I see it this has to be linear, but lets see how did everybody did it
+
+### 804. Unique Morse Code Words
+
+mmmmmmm well I will see these guys implementation
+
+### 1295. Find Numbers with Even Number of Digits
+
+Has to be linear, I need to iterate though every one of those elements
+
+### 1252. Cells with Odd Values in a Matrix 
+
+This question is really hard to read
+
+### 595. Big Countries
+
+Is There some optimization (or in term of redabiliyt ot bst pratice) that I shouldapply ??????
+
+### 832. Flipping an Image
+
+I has to be honest with myself, I'm just reading these questions without even stop to think how should I do it.
+
+### 
