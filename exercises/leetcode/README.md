@@ -186,3 +186,17 @@ This look suspiciosly easy, so I need to optimeze (starting by understating what
 
 Overviwing this, I can think of optimization over the subprocess, for example, every time I add something to the sum I must also insert in a ordered array, that will make it easier to determine if an element is in the array with a binary search
 
+### 1309. Decrypt String from Alphabet to Integer Mapping
+
+The brute force implementation that I can think of is linear, lets see those other people implementation
+
+### 1436. Destination City
+
+The way I see it, has to be linear
+
+
+### 1370. Increasing Decreasing String
+
+Find the smallest or greatest, I have to look for implementation in the book because I think that there are 
+O(log-n) so the final solution would be O(nlog-n)
+
