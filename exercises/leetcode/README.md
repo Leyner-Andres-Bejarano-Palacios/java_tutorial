@@ -200,3 +200,6 @@ The way I see it, has to be linear
 Find the smallest or greatest, I have to look for implementation in the book because I think that there are 
 O(log-n) so the final solution would be O(nlog-n)
 
+### 1464. Maximum Product of Two Elements in an Array
+
+find the greatest and the second greatest
