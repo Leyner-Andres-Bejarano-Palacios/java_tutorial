@@ -211,3 +211,22 @@ another stroke
 ### 1704. Determine if String Halves Are Alike
 
 dannnnmmmmmmmm,  linear is the best one I can think of, ,,,,,, I'll see the other homies solutions
+
+### 1374. Generate a String With Characters That Have Odd Counts
+
+not that interesting
+
+### 1304. Find N Unique Integers Sum up to Zero
+
+Not so interesting
+
+### 1768. Merge Strings Alternately
+
+Another one, from those exercises not so interesting
+
+
+# I'm on page 3 of the easy ones, but I'm already bored of just watching these exeercises.................................................jumping to the mediun difficulty
+
+### 1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+
+The interesting part is, defining which one correspong to which one (how do we know that two nodes are the same), they indicate what to do when we have repeated ones
